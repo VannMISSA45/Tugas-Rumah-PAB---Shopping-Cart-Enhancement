@@ -1,9 +1,13 @@
 # 🏎️ JAJAN MAINAN - Toy Store App 🧸
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+**Nama: Irvani Canlusty Missa**
 
-Sebuah aplikasi katalog toko mainan yang bernama "JAJAN MAINAN". Aplikasi ini dibangun menggunakan Flutter dengan manajemen state Provider untuk pengalaman belanja yang mulus.
+**Kelas: A**
+
+**Mata Kuliah: Pemograman Aplikasi Bergerak**
+
+
+JAJAN MAINAN merupakan Sebuah aplikasi katalog toko mainan yang bernama "JAJAN MAINAN". Aplikasi ini dibangun menggunakan Flutter dengan manajemen state Provider untuk pengalaman belanja yang mulus.
 
 ---
 
